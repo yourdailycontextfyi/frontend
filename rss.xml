@@ -21,6 +21,16 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://dailytake.fyi/TheDailyTakeLogoWhite3k.jpg" />
 		<item>
+			<title>YourDailyContext: 2026-09-18 23:38:41.639042+00:00</title>
+			<pubDate>Fri, 18 Sep 2026 23:38:41 +0000</pubDate>
+			<description>- Anthropic reveals that 26% of its R&amp;D is now driven by its Claude chatbot, highlighting the era of self-improving AI alongside critical security and military abuse risks.
+- Major record labels Sony and Universal sue AI music creator Suno, while Disney hires the former CEO of Character AI as its first Chief Technology Officer.
+- California issues a safety executive order exploring a model "kill switch" after a false AI-generated report nearly sparked a U.S.-China conflict.
+- Cloud provider Nscale files for a U.S. IPO as Nvidia’s CEO projects global AI infrastructure spending will reach $3 to $4 trillion by 2030.</description>
+			<guid>879a313d-b619-4b39-b6f4-092de3986d74</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-18_23-36.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 2026-09-18 17:34:26.761017+00:00</title>
 			<pubDate>Fri, 18 Sep 2026 17:34:26 +0000</pubDate>
 			<description>- Anthropic uses its Claude chatbot for over 25% of its R&amp;D, while researchers demonstrate Claude-based security exploits against OpenAI accounts.
