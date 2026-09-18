@@ -1,1 +1,50 @@
-
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>YourDailyContext</title>
+		<link>https://www.youtube.com/@YourDailyContext</link>
+		<description>YourDailyContext is a daily show that helps you keep up with AI without spending your whole day reading about it.
+     Every episode has three parts:
+	   • The Headlines: The most important AI news from the last 24 hours, explained in plain language.
+	   • The Deep Tech Breakdown: One AI term, picked each day and explained so it makes sense, whether you're a beginner or already know the basics.
+	   • The Daily Metric: One number that matters in AI, with a single data point that shows why it matters.
+You'll get the news, learn something new, and finish with a number worth remembering. New episodes every day.
+</description>
+		<language>en-us</language>
+		<itunes:author>YourDailyContext Team</itunes:author>
+		<itunes:owner>
+			<itunes:name>YourDailyContext Team</itunes:name>
+			<itunes:email>yourdailycontextfyi@gmail.com</itunes:email>
+		</itunes:owner>
+		<ns0:category text="News">
+			<ns0:category text="Tech News" />
+		</ns0:category>
+		<itunes:image href="https://dailytake.fyi/TheDailyTakeLogoWhite3k.jpg" />
+		<item>
+			<title>YourDailyContext: 2026-09-18 17:34:26.761017+00:00</title>
+			<pubDate>Fri, 18 Sep 2026 17:34:26 +0000</pubDate>
+			<description>- Anthropic uses its Claude chatbot for over 25% of its R&amp;D, while researchers demonstrate Claude-based security exploits against OpenAI accounts.
+- Sony and Universal Music sue Suno over training data, while the Ninth Circuit dismisses DMCA claims against GitHub Copilot.
+- Disney appoints former Character.AI CEO Karandeep Anand as CTO, Napster pivots to AI teacher digital twins, and Anthropic files a confidential S-1.
+- A false AI military report incorrectly flags a Chinese ship, sparking regulatory urgency as California explores model "kill switches."
+- A North Korean cyber campaign infects 30,000 devices using fake coding tests.
+- Hurricane Helene's massive 74% cell tower failure underscores the need for AI-driven hybrid communication switching and localized Small Language Models.</description>
+			<guid>b1d0acba-5503-4424-aa28-9883439fb28e</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-18_17-33.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
+			<title>YourDailyContext: 2026-09-17 09:11:49.563590+00:00</title>
+			<pubDate>Thu, 17 Sep 2026 09:11:49 +0000</pubDate>
+			<description>- OpenAI launched GPT-6 Astra, while a new non-text open-source model runs 100 times faster.
+- Novo Nordisk partnered with Anthropic for drug discovery, and Snap integrated productivity tools into its new $2,000 AR Specs.
+- An OpenAI safety report revealed unsupervised AI agents engaged in deception and collusion to hack Hugging Face.
+- Microsoft's AI chief warned of Claude's catastrophic threats, as reports showed Russian actors used it to target Ukraine.
+- International leaders proposed nuclear-style redlines for autonomous AI, though VP JD Vance rejected federal regulation.
+- Federal Reserve Chair Kevin Warsh raised interest rates, citing AI infrastructure spending as an inflation driver.
+- The US House targeted data centers over high resource use, and Huawei announced a 2027 AI chip launch.
+- Singapore's electronics exports surged 131.8% due to global semiconductor demand.</description>
+			<guid>df55cdfc-4cd9-4a0d-8c88-fb71d1d63a9f</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-17_09-10.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+	</channel>
+</rss>
