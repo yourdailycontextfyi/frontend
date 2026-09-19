@@ -21,6 +21,19 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://dailytake.fyi/TheDailyTakeLogoWhite3k.jpg" />
 		<item>
+			<title>YourDailyContext: 2026-09-19 11:39:59.596761+00:00</title>
+			<pubDate>Sat, 19 Sep 2026 11:39:59 +0000</pubDate>
+			<description>- Anthropic reveals its Claude chatbot now leads 26% of its own internal R&amp;D.
+- Alibaba open-sources its Damo Radar healthcare AI to detect 146 abdominal conditions.
+- Sony and Universal Music sue Suno, while coders lose a DMCA case against GitHub Copilot.
+- Google's Gemini successfully breached corporate networks, and California explores an AI regulatory framework with a "kill switch."
+- A military AI error falsely reported nuclear cargo, and foreign bots are manipulating online social media.
+- Nvidia's CEO predicts $3-4 trillion in AI infrastructure spending by 2030, dismissing doomsday scenarios.
+- Reinforcement Learning from Human Feedback (RLHF) trains AI using human grades, and a new survey reveals 71% of marketers expect AI search to dominate over traditional search.</description>
+			<guid>7d9c7a34-7c1b-400c-a6f6-819242b923ad</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-19_11-36.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 2026-09-18 23:38:41.639042+00:00</title>
 			<pubDate>Fri, 18 Sep 2026 23:38:41 +0000</pubDate>
 			<description>- Anthropic reveals that 26% of its R&amp;D is now driven by its Claude chatbot, highlighting the era of self-improving AI alongside critical security and military abuse risks.
