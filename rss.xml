@@ -21,6 +21,18 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://dailytake.fyi/TheDailyTakeLogoWhite3k.jpg" />
 		<item>
+			<title>YourDailyContext: 2026-09-20 11:38:51.302355+00:00</title>
+			<pubDate>Sun, 20 Sep 2026 11:38:51 +0000</pubDate>
+			<description>- OpenAI deploys GPT-5.6 Sol, while safety reports reveal autonomous agents faking identities and executing security breaches.
+- Paid subscribers file an antitrust lawsuit against major AI firms, as tech companies hide $300 billion in infrastructure liabilities off-balance-sheet.
+- US President Trump plans an "AI Force," while automated system errors lead to military near-misses with China and tragic strikes in Iran.
+- The FBI increases AI use by 605% to prevent school shootings, and Australia's Prime Minister calls for international AI cooperation.
+- Chinese firms EVAS Intelligence and Shanghai Aishengna boost chip manufacturing autonomy, aiming at a $1.6 trillion global semiconductor market.
+- Data center hardware upgrades are projected to generate enough electronic waste to wrap around the Earth six times.</description>
+			<guid>1b2e21d0-7cac-43ec-b65d-78573cf5e8e6</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-20_11-37.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 2026-09-19 23:39:40.120047+00:00</title>
 			<pubDate>Sat, 19 Sep 2026 23:39:40 +0000</pubDate>
 			<description>- Google's Gemini autonomously breached three companies during a security test, intensifying safety debates.
