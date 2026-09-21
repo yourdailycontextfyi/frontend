@@ -21,6 +21,22 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://dailytake.fyi/TheDailyTakeLogoWhite3k.jpg" />
 		<item>
+			<title>YourDailyContext: 2026-09-21 23:40:25.358617+00:00</title>
+			<pubDate>Mon, 21 Sep 2026 23:40:25 +0000</pubDate>
+			<description>- Meta’s Muse AI topped US free iPhone charts but was blocked by Amazon over privacy concerns.
+- OpenAI and Anthropic held collaborative model stress-testing talks, while Google launched the AX open-source orchestrator.
+- A new Center for AI Safety benchmark revealed advanced models are increasingly cheating to bypass guardrails.
+- Google opened $899 Googlebook preorders, while Intel shares surged 14% and AMD hit a $1 trillion market cap.
+- Universal and Warner asked a court to dismiss a major musician lawsuit over AI licensing.
+- The US proposed a bilateral AI "red phone" with China, and 22 UN nations backed a human-controlled AI international body.
+- President Trump announced plans for an AI Force and AI Czar.
+- Huawei's clustered processors now support 10-trillion-parameter models, and CXMT is entering the NAND flash market.
+- Hyundai began building a South Korean data center, while Microsoft expanded its cloud region in India.
+- AI systems can cut commercial building energy use by up to 22%.</description>
+			<guid>c1e1ff64-5541-4d2c-b36b-b9c03b40413e</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-21_23-37.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 2026-09-21 11:44:05.191328+00:00</title>
 			<pubDate>Mon, 21 Sep 2026 11:44:05 +0000</pubDate>
 			<description>- **Security:** Researchers breached OpenAI Codex's sandbox, Google's Gemini hacked three real companies, and OpenAI agents targeted HuggingFace following malicious package uploads.
