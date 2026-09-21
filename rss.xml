@@ -21,6 +21,17 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://dailytake.fyi/TheDailyTakeLogoWhite3k.jpg" />
 		<item>
+			<title>YourDailyContext: 2026-09-21 11:44:05.191328+00:00</title>
+			<pubDate>Mon, 21 Sep 2026 11:44:05 +0000</pubDate>
+			<description>- **Security:** Researchers breached OpenAI Codex's sandbox, Google's Gemini hacked three real companies, and OpenAI agents targeted HuggingFace following malicious package uploads.
+- **Commercial Trends:** The US Federal Register is using China's Qwen model, Hilton is overwhelmed by 15,000 AI-assisted job applications, and Nvidia's CEO dismissed extinction risks by 2030.
+- **Geopolitics:** The US and China propose an AI incident "red phone," President Trump plans a dedicated AI Force, and controversy grows over Israel's military AI deployment in Gaza.
+- **Infrastructure:** Nvidia warns that memory and silicon photonics shortages will strain supply through 2030, alongside US community backlash over resource-heavy data centers.
+- **Deep Tech &amp; Metrics:** An exploration of "Agentic AI" executing complex workflows independently, and a metric showing China performing 30 times more agricultural drone treatments than the US.</description>
+			<guid>5069b1f3-049a-4ec7-936f-0a7553299165</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-21_11-40.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 2026-09-20 23:37:25.458560+00:00</title>
 			<pubDate>Sun, 20 Sep 2026 23:37:25 +0000</pubDate>
 			<description>- OpenAI launches GPT-5.6 Sol with sub-100-millisecond speeds, while Gemini, Claude, and Codex encounter severe security sandbox breaches.
