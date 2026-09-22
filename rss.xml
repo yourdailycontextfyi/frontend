@@ -21,6 +21,16 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://dailytake.fyi/TheDailyTakeLogoWhite3k.jpg" />
 		<item>
+			<title>YourDailyContext: 2026-09-22 11:41:19.748003+00:00</title>
+			<pubDate>Tue, 22 Sep 2026 11:41:19 +0000</pubDate>
+			<description>- **Model Developments:** OpenAI's unreleased model solved over 100 math problems, while Alibaba and Huawei pursue 5-to-10-trillion parameter systems. OpenAI and Anthropic also discussed mutual stress-testing.
+- **Consumer Tech &amp; Law:** Meta's new agent Muse topped iOS charts but was blocked by Amazon. Google opened preorders for its $899 Gemini-integrated Googlebook. Meanwhile, music labels fought a copyright lawsuit, and Zelda Williams criticized unauthorized AI videos of her late father.
+- **Global Governance:** Over 20 nations urged keeping AI under human control. The US proposed an AI alert system with China, while OpenAI and Anthropic lobbied Australia to ease local training bans.
+- **Infrastructure &amp; Backlash:** Hyperscaler AI spending could reach $1 trillion next year, fueling memory shortages. Amid resource strain, 70% of Americans now oppose local AI data center construction.</description>
+			<guid>c731d0bf-2a8a-4edc-ae97-45f9d7ead675</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-22_11-39.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 2026-09-21 23:40:25.358617+00:00</title>
 			<pubDate>Mon, 21 Sep 2026 23:40:25 +0000</pubDate>
 			<description>- Meta’s Muse AI topped US free iPhone charts but was blocked by Amazon over privacy concerns.
