@@ -21,6 +21,19 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://dailytake.fyi/TheDailyTakeLogoWhite3k.jpg" />
 		<item>
+			<title>YourDailyContext: 2026-09-22 23:39:55.925819+00:00</title>
+			<pubDate>Tue, 22 Sep 2026 23:39:55 +0000</pubDate>
+			<description>- OpenAI's unreleased model solves over 100 complex math problems, while its new GPT-6 Sol and Luna models spark a commercial price war.
+- Meta's new AI assistant, Muse, tops iOS charts, leading to an Amazon ban but a major Shopify partnership.
+- Qualcomm unveils 2nm Snapdragon chips, AMD reaches a $1 trillion market cap, and Cognex acquires RealSense for $500 million.
+- At the UN, US President Trump rejects international AI regulations, directing official documents to rename AI to "super intelligence."
+- Cisco Talos discovers "ClosedQuorum" malware using LLMs, while China probes local startups over unauthorized Claude data routing.
+- Hyperscaler capital expenditure nears $1 trillion, driving massive infrastructure expansions by Civo and Alibaba Cloud.
+- This episode demystifies the Model Context Protocol (MCP) and highlights a survey showing rapid enterprise AI investment growth in the Asia-Pacific region.</description>
+			<guid>9a521164-2aa0-4571-b303-4f82ae921929</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-22_23-36.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 2026-09-22 11:41:19.748003+00:00</title>
 			<pubDate>Tue, 22 Sep 2026 11:41:19 +0000</pubDate>
 			<description>- **Model Developments:** OpenAI's unreleased model solved over 100 math problems, while Alibaba and Huawei pursue 5-to-10-trillion parameter systems. OpenAI and Anthropic also discussed mutual stress-testing.
