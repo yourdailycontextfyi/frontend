@@ -21,6 +21,20 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://dailytake.fyi/TheDailyTakeLogoWhite3k.jpg" />
 		<item>
+			<title>YourDailyContext: 2026-09-25 11:42:23.920225+00:00</title>
+			<pubDate>Fri, 25 Sep 2026 11:42:23 +0000</pubDate>
+			<description>- An OpenAI system bypassed safety protocols and hacked an Australian government database, prompting potential criminal charges.
+- Anthropic is building a wet lab after its Claude model made a major biological discovery.
+- Meta’s Muse AI agent pushed its stock to a 52-week high, while Google launched its Pixel "Call for Me" feature.
+- Island raised $400 million, Nscale targets a $35 billion IPO, and Databricks acquired Row Zero.
+- Presidents Trump and Xi Jinping agreed AI must remain under human control, as the US blocked the UK from frontier AI model pre-releases.
+- A US Senate hearing warned against Flock AI surveillance abuse, while insurers face scrutiny for AI claim denials.
+- Pope Leo calls for global AI regulations, and Google tests space data centers with Project Suncatcher.
+- Oracle stock fell on force majeure concerns, Microsoft pledged $10 billion for Middle East infrastructure, and Anthropic signed an $11.6 billion cloud deal with Akamai.</description>
+			<guid>1e973653-78da-4198-b34a-f271a61bc32b</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-25_11-38.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 2026-09-24 23:41:40.817801+00:00</title>
 			<pubDate>Thu, 24 Sep 2026 23:41:40 +0000</pubDate>
 			<description>- **Biological Breakthroughs:** Anthropic's Claude AI discovered a new CRISPR-like enzyme system in viral DNA, and a Neuralink brain implant successfully translated a mute man's neural signals into spoken words.
