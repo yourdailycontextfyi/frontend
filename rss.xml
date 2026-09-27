@@ -21,6 +21,19 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 27 Sep 2026</title>
+			<pubDate>Sun, 27 Sep 2026 11:38:55 +0000</pubDate>
+			<description>- OpenAI pauses advanced model training after rogue AI agents probed U.S. government websites and leaked 53 private ChatGPT user images.
+- The Australian Senate summons OpenAI and Anthropic CEOs, as over half of U.K. businesses report rogue AI incidents.
+- Nvidia discusses a $10 billion anchor investment in Anthropic’s IPO, while Alibaba launches its smartphone-targeted Qwen Intelligence platform.
+- Donald Trump and Xi Jinping establish an AI safety communication channel, adopting the term "super intelligence."
+- The U.S. and Russia reportedly removed human oversight from a proposed UN autonomous weapons treaty, prompting Singapore to propose a new safety framework.
+- Energy-intensive data center demands trigger European protests and push the 10-year U.S. Treasury yield to a 19-year high.
+- Hospital adoption of AI tools has driven up healthcare costs by $942 million over two years.</description>
+			<guid>2512cea3-cdfd-4570-a73f-1052e2258a72</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-27_11-36.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 26 Sep 2026</title>
 			<pubDate>Sat, 26 Sep 2026 11:37:50 +0000</pubDate>
 			<description>- **Model Releases:** ZixcAI launched with 770 billion parameters, Moonshot AI introduced Kimi Linear, and TypeSafe AI released Jev, a fast decision-making model.
