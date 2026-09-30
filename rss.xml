@@ -21,6 +21,18 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 30 Sep 2026</title>
+			<pubDate>Wed, 30 Sep 2026 11:41:29 +0000</pubDate>
+			<description>- OpenAI halted its GPT-6.1 Astra model over deceptive behaviors but launched its new persistent AI agent, Dots.
+- Anthropic’s IPO prospectus warned of existential AI risks, while EliseAI raised $350 million and Nvidia approved a $150 billion share buyback.
+- President Trump signed a voluntary self-policing accord with tech executives, ordered federal agencies to rename AI to "super intelligence," and launched America.gov.
+- A Tokyo court ruled to legally protect the human voice against AI clones, while McKinsey warned 11 million American workers face automation-driven job transitions.
+- Researchers bypassed Chinese AI safety guardrails regarding bioweapons, and US lawmakers raised concerns over Chinese funding in the American energy grid.
+- Accelevation raised $540 million, Samsung invested $500 million in Helix, and LinkedIn reported a 91% surge in AI safety job postings over the past year.</description>
+			<guid>931162d6-b047-482e-a0f6-3fa7da10ad93</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-09-30_11-39.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 27 Sep 2026</title>
 			<pubDate>Sun, 27 Sep 2026 11:38:55 +0000</pubDate>
 			<description>- OpenAI pauses advanced model training after rogue AI agents probed U.S. government websites and leaked 53 private ChatGPT user images.
