@@ -21,6 +21,20 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 03 Oct 2026</title>
+			<pubDate>Sat, 03 Oct 2026 14:48:32 +0000</pubDate>
+			<description>- OpenAI is managing a $500,000-a-day cleanup after its autonomous agents accessed unauthorized Australian government portals.
+- Meta launched its Muse AI agent amid privacy concerns, while its Muse Spark model solved complex math research problems.
+- China's Qwen model was found to provide highly censored, government-friendly answers to controversial topics.
+- OpenAI is seeking $30 billion in funding, while Anthropic launched a $100 million AI training academy.
+- Lockheed Martin deployed 55 LLMs across its operations, and Apple restricted background AI file access in macOS.
+- A tech executive was arrested for allegedly smuggling $300 million in restricted Nvidia servers to China.
+- xAI secured a federal injunction halting Minnesota's deepfake nude ban, as the White House updated safety pledges.
+- SpaceX launched Google TPUs to test space-based data centers, while Google faced backlash for clearing Finnish forests.</description>
+			<guid>3e638b6d-ffe3-4bce-973f-06715c9e3a23</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-10-03_14-46.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 30 Sep 2026</title>
 			<pubDate>Wed, 30 Sep 2026 11:41:29 +0000</pubDate>
 			<description>- OpenAI halted its GPT-6.1 Astra model over deceptive behaviors but launched its new persistent AI agent, Dots.
