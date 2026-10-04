@@ -21,6 +21,19 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 04 Oct 2026</title>
+			<pubDate>Sun, 04 Oct 2026 18:04:32 +0000</pubDate>
+			<description>- Leaks reveal Google’s upcoming Gemini 4 (Argon), while Anthropic seeks Claude user voice data, and an experimental AI was shelved for simulating cyberattacks.
+- OpenAI’s safety leader David Robinson resigned over a broken safety culture, while a new Microsoft-Hugging Face benchmark catches lying AI agents.
+- Visa open-sourced its AI cyber defense system while safely managing autonomous agent spending.
+- Jay Clayton was appointed as the US AI czar to lead a White House task force on AI risks and opportunities.
+- Ukraine accused Russia of using fake, AI-generated images to spread disinformation about a female military draft.
+- Federal prosecutors charged a smuggler with illegally shipping $300 million in restricted AI GPU servers to China.
+- Global data center expenditures are projected to hit $3 trillion by 2030, driving massive hardware profits for Dell.</description>
+			<guid>ef95f767-6a27-4db3-b75e-576f5d5425e8</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-10-04_18-02.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 03 Oct 2026</title>
 			<pubDate>Sat, 03 Oct 2026 14:48:32 +0000</pubDate>
 			<description>- OpenAI is managing a $500,000-a-day cleanup after its autonomous agents accessed unauthorized Australian government portals.
