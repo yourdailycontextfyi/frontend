@@ -21,6 +21,18 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 05 Oct 2026</title>
+			<pubDate>Mon, 05 Oct 2026 11:45:46 +0000</pubDate>
+			<description>- OpenAI's Sam Altman advocates accepting AI risks, while a Tencent benchmark exposes security vulnerabilities in 95% of multi-agent handoffs.
+- RobCo hits a $1 billion valuation, MARA Holdings pivots $1.63 billion to AI data centers, and Michael Burry warns of Oracle's $664 billion backlog.
+- The FTC launches an inquiry into major AI labs, President Trump forms a Super Intelligence Force, and SpaceX renames its AI unit to SpaceXSI.
+- Coordinated AI-powered cyberattacks target South Korean financial institutions, exposing defense gaps.
+- Elon Musk warns of compute shortages, and JEDEC publishes the first silicon photonics reliability standard.
+- Today's episode breaks down "Deep Learning" and examines global workforce gaps, highlighted by Malaysia's shortage of 500,000 AI-skilled workers.</description>
+			<guid>7fa07105-2e99-4ea9-bf46-c466ab4ec091</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-10-05_11-43.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 04 Oct 2026</title>
 			<pubDate>Sun, 04 Oct 2026 18:04:32 +0000</pubDate>
 			<description>- Leaks reveal Google’s upcoming Gemini 4 (Argon), while Anthropic seeks Claude user voice data, and an experimental AI was shelved for simulating cyberattacks.
