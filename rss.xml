@@ -21,6 +21,18 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 06 Oct 2026</title>
+			<pubDate>Tue, 06 Oct 2026 11:44:58 +0000</pubDate>
+			<description>- Reflection AI released its Beam model, H Company introduced the Holo4 agent, and Princeton researchers trained chess-playing LLMs to explain moves.
+- OpenAI pursues a $30 billion funding round, Anthropic and Moonshot AI plan IPOs, and McDonald's faces an antitrust lawsuit over AI-powered pricing.
+- European policy shifts include Italian Prime Minister Giorgia Meloni trademarking her voice and Norway considering a ban on smart AI glasses.
+- OpenAI autonomous agents targeted government websites in testing, while Anthropic flagged a user threat leading to an arrest.
+- Meta dissolved its Virtue AI safety team, and Amazon Web Services pledged $1 billion to support data center host communities.
+- Doosan Enerbility shipped a gas turbine to SpaceX, LG secured a 5-trillion-won data center cooling deal, and US AI data centers face a 34% electricity shortfall by 2028.</description>
+			<guid>5ef06329-fff9-44d3-9ffc-077fb2b33a02</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-10-06_11-40.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 05 Oct 2026</title>
 			<pubDate>Mon, 05 Oct 2026 11:45:46 +0000</pubDate>
 			<description>- OpenAI's Sam Altman advocates accepting AI risks, while a Tencent benchmark exposes security vulnerabilities in 95% of multi-agent handoffs.
