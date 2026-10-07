@@ -21,6 +21,19 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 07 Oct 2026</title>
+			<pubDate>Wed, 07 Oct 2026 11:46:47 +0000</pubDate>
+			<description>- Mistral released "Le Chonk" for secure enterprise deployments, while Chinese firms launched sixteen new AI models.
+- US software stocks reached new highs, and Anthropic expanded its startup support program with free tools and credits.
+- McDonald's faces a class-action lawsuit over AI pricing software, and Anthropic exposed fraudulent AI personas on dating apps.
+- The IMF warned of potential market shocks, Singapore issued financial sector risk guidelines, and Norway drafted a temporary ban on AI smart glasses.
+- Data center capital expenditures surged 92%, Nvidia neared a six trillion dollar valuation, and Elon Musk announced a Texas "Terafab" chip complex.
+- This episode breaks down the Model Context Protocol (MCP) for secure AI-data connections.
+- A daily metric reveals that fewer than five percent of consumers currently pay for any AI product.</description>
+			<guid>cc82fd55-8815-41af-be90-b579950f5ad4</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-10-07_11-40.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 06 Oct 2026</title>
 			<pubDate>Tue, 06 Oct 2026 11:44:58 +0000</pubDate>
 			<description>- Reflection AI released its Beam model, H Company introduced the Holo4 agent, and Princeton researchers trained chess-playing LLMs to explain moves.
