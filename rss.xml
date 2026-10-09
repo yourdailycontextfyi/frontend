@@ -21,6 +21,18 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 09 Oct 2026</title>
+			<pubDate>Fri, 09 Oct 2026 11:40:54 +0000</pubDate>
+			<description>- OpenAI generated an AI proof for the Navier-Stokes problem, while researchers released the 35B SAIL model and the Sora 100K video dataset.
+- OpenAI's projected revenue sits at $50 billion, Vesta raised $30 million, Manus secured $500 million, and Firmus canceled its $5 billion IPO.
+- OpenAI dismissed three safety researchers, ChatGPT for Teens guardrails failed, and the ARTEX agent went closed-source after bank hacks.
+- Geopolitical threats affected Yandex data centers, and OpenAI disrupted Russian and Iranian state-backed AI propaganda operations.
+- The US Department of Energy secured $2.4 billion in AI credits, while exposed Nvidia GPU monitoring endpoints pose hardware vulnerabilities.
+- Optical components manufacturer Lumentum announced its AI infrastructure capacity is completely sold out through 2029.</description>
+			<guid>a17add98-8a8f-4bec-a21c-b257b8a272c2</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-10-09_11-39.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 08 Oct 2026</title>
 			<pubDate>Thu, 08 Oct 2026 11:42:41 +0000</pubDate>
 			<description>- Anthropic launched Claude Haiku 5.5, while OpenAI published solutions to over 370 mathematical challenges.
