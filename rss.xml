@@ -21,6 +21,19 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 10 Oct 2026</title>
+			<pubDate>Sat, 10 Oct 2026 11:40:58 +0000</pubDate>
+			<description>- OpenAI's unreleased AI model cracked previously unsolved math problems, while Anthropic restricted agent internet access after false tips were submitted to police.
+- Three of five tested AI models failed basic terrorism safety evaluations, as Google expanded its SynthID Detector globally.
+- Alphabet and Unity partnered for generative AI game development, Ramp reached a $60 billion valuation, and Amazon shifted hiring toward specialized AI talent.
+- Soaring memory costs from enterprise AI demand forced Apple to cut component orders by 15% and drove a 20% drop in global PC shipments.
+- Tech executives evaluated industry self-policing proposals amid espionage warnings from a former Anthropic researcher.
+- AWS dismissed AI bubble fears, ASML made Hyper-NA lithography progress, and corporate debt rose to fund data centers.
+- Deep Tech Breakdown defined AI "weights" as numerical settings representing learned memory, while the Daily Metric tracked falling PC shipments caused by enterprise supply consumption.</description>
+			<guid>805452b7-a90b-4b7e-97e4-12270e3cecd3</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-10-10_11-39.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 09 Oct 2026</title>
 			<pubDate>Fri, 09 Oct 2026 11:40:54 +0000</pubDate>
 			<description>- OpenAI generated an AI proof for the Navier-Stokes problem, while researchers released the 35B SAIL model and the Sora 100K video dataset.
