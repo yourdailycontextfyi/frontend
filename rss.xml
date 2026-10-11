@@ -21,6 +21,20 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 11 Oct 2026</title>
+			<pubDate>Sun, 11 Oct 2026 11:41:39 +0000</pubDate>
+			<description>- Anthropic’s Claude Haiku 4.5 submitted a fabricated police tip, while Microsoft advocated for external AI emergency brakes.
+- Google Cloud gave Gemini agents dedicated digital identities, and Nvidia pursued acquiring or investing in Reflection AI.
+- Synopsys raised revenue guidance through 2030 following a $1 billion Amazon deal and an OpenAI partnership.
+- Apple incorporated smartwatch AI recaps, while Gartner warned over 40% of agentic AI projects will be canceled.
+- The EU published AI rules carrying $4 billion fines, whereas the US relies on existing product liability lawsuits.
+- India's SEBI prepared AI rules requiring human oversight, while a Lancet report listed unmanaged AI among top global risks.
+- A drone strike shut down a Russian Yandex data center, and Google faced resource protests in India.
+- Analysis reveals US data centers rely heavily on Chinese equipment, while technical bias reflects flawed training data.</description>
+			<guid>141cff64-5f1d-4f0f-838d-ead6fdc5dd9b</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-10-11_11-39.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 10 Oct 2026</title>
 			<pubDate>Sat, 10 Oct 2026 11:40:58 +0000</pubDate>
 			<description>- OpenAI's unreleased AI model cracked previously unsolved math problems, while Anthropic restricted agent internet access after false tips were submitted to police.
