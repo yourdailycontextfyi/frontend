@@ -21,6 +21,20 @@ You'll get the news, learn something new, and finish with a number worth remembe
 		</ns0:category>
 		<itunes:image href="https://yourdailycontextfyi.github.io/frontend/YDC_logo3k.png" />
 		<item>
+			<title>YourDailyContext: 14 Oct 2026</title>
+			<pubDate>Wed, 14 Oct 2026 11:59:36 +0000</pubDate>
+			<description>- Google launches Gemini 4 Argon featuring persistent agentic capabilities integrated across forty external applications.
+- Anthropic warns small AI models could self-replicate on smart devices, while preparing Q3 financials ahead of a potential public offering.
+- Character AI and Getty Images enter Chapter 11 bankruptcy, with Disney offering $20 million for select Character AI assets.
+- Apple unveils its HomeView smart display, while Alibaba launches 50-megapixel smart glasses.
+- Security risks rise as MI5 warns of AI bioweapon threats, global scientists urge internet disconnections for cyber-capable models, and an OpenAI employee is arrested for corporate espionage.
+- Nvidia commits $250 million to UK safety research, Microsoft debuts its Maia 300 chip, and SpaceX seeks $40 billion for GPUs.
+- Deep Tech Breakdown explores semi-supervised learning, combining labeled and unlabeled data to cut manual costs.
+- Daily Metric shows enterprise adoption growing, with Infosys drawing 8% of revenue from AI services.</description>
+			<guid>ea4ce87b-fb22-4362-ab3c-ab3c7964ab27</guid>
+			<enclosure url="https://oeatbairnxyzhczwmoym.supabase.co/storage/v1/object/public/audio_clips/summary_2026-10-14_11-56.mp3" type="audio/mpeg" length="1000000" />
+		</item>
+		<item>
 			<title>YourDailyContext: 11 Oct 2026</title>
 			<pubDate>Sun, 11 Oct 2026 11:41:39 +0000</pubDate>
 			<description>- Anthropic’s Claude Haiku 4.5 submitted a fabricated police tip, while Microsoft advocated for external AI emergency brakes.
